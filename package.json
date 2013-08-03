@@ -1,0 +1,30 @@
+{
+  "name": "Infusion",
+  "version": "0.1.0",
+  "description": "JavaScript Dependency Injection",
+  "main": "Infusion.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Problematic/Infusion"
+  },
+  "keywords": [
+    "dependency-injection",
+    "dic"
+  ],
+  "author": "Derek Stobbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Problematic/Infusion/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}
